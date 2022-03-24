@@ -1,0 +1,24 @@
+{
+  "theme_color" : "#f4f1ef",
+  "background_color" : "#f4f1ef",
+  "display" : "standalone",
+  "scope" : "/",
+  "start_url" : "/",
+  "name" : "Face Recognition App",
+  "short_name" : "Face Attendance",
+  "description" : "A mobile face recognition attendance app designed for the students",
+  "icons": [
+  
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
